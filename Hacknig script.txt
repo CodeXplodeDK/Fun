@@ -1,0 +1,27 @@
+X=MsgBox("Fejl ved åbning af systemet. Mistænksom aktivitet sporet på denne pc, vil du genoprette dit system?",4+64,"Brugersystem")
+
+X=MsgBox("Ikke muligt at genoprette systemet. Vil du scanne computeren for fejl?",3+48,"Computer Scanning")
+
+X=MsgBox("Igangværende scanning kører i baggrunden. Vil du se resultat?",3+16,"Igangværende scanning...") 
+
+X=MsgBox("Advarsel! Virus Trojan.exe fundet. Vil du slette denne virus?",3+16,"Advarsel!") 
+
+X=MsgBox("Ikke muligt at slette Trojan.exe virus",1+64,"Kritisk system fejl!")
+
+X=MsgBox("Virus aktiveret!",2+16,"Virus Advarsel!")
+
+X=MsgBox("ADVARSEL Bruger: Pernille er nu under hacker angreb. Tryk OK, Kryds eller ESC for at tildele hackeren adgang", 0+48, "ADVARSEL! Du er nu under angreb!")
+
+X=MsgBox("Sletter filer fra PC...",2+16,"Slet filer") 
+
+X=MsgBox("Virus kopierer dine passwords...",2+48,"Kopierer passwords")
+
+X=MsgBox("Vent venligst mens alle dine private filer og passwords uploades til serveren. Vil du stoppe?",4+64,"Igangværende filoverførsel")
+
+X=MsgBox("Ikke muligt at stoppe. Fil overførsel fuldendt",1+16,"Fuldført")   
+
+X=MsgBox("Din pc er nu komprimeret",1+68,"Hacked!") 
+
+X=MsgBox("Pernille Hansen, det er ikke længere muligt for dig at bruge denne pc længere...",1+48,"PC Hacked") 
+
+X=MsgBox("Ej det var bare fis, tag det roligt Pernille, det var kun for sjovt, der er slet ikke noget virus",1+64,"IT'S JUST A PRANK BRO! - HAHA") 
